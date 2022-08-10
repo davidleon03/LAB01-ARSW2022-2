@@ -21,6 +21,12 @@
 	2. Inicie los tres hilos con 'start()'.
 	3. Ejecute y revise la salida por pantalla. 
 	4. Cambie el incio con 'start()' por 'run()'. Cómo cambia la salida?, por qué?.
+	*start
+	![image](https://user-images.githubusercontent.com/98216838/183935897-a280f790-31e5-422b-b23e-1444d08d72bc.png)
+	*run
+	![image](https://user-images.githubusercontent.com/98216838/183936180-40ff0b82-dc1d-4d19-8426-fefaa69ce504.png)
+	
+
 
 **Parte II - Ejercicio Black List Search**
 
